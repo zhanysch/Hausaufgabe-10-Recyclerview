@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recycleview</string>
+    <string name="light">Light</string>
+    <string name="FFF">Сила действия, равно силу противодействия</string>
+    <string name="sing">сингулярность</string>
+    <string name="sungularity">Sungularity</string>
+    <string name="let_s_fly">Let\'s Fly</string>
+    <string name="enjoy_your_life">enjoy your life</string>
+    <string name="emjoy">Emjoy</string>
+    <string name="verdammt">verdammt</string>
+</resources>
